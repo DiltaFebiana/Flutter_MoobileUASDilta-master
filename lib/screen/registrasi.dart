@@ -56,7 +56,7 @@ class _Register extends State<Register> {
                     color: Color.fromARGB(255, 9, 0, 0),
                     shadows: [
                       Shadow(
-                        color: Color.fromARGB(255, 3, 64, 244),
+                        color: Color.fromARGB(255, 212, 135, 183),
                         blurRadius: 10,
                         offset: const Offset(4.0, 4.0),
                       ),
@@ -218,7 +218,7 @@ class _Register extends State<Register> {
                     width: double.infinity,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Color.fromARGB(255, 3, 64, 244),
+                        backgroundColor: Color.fromARGB(255, 204, 25, 93),
                         elevation: 5,
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(50),
